@@ -18,3 +18,11 @@ body{
   width: auto;
   padding: 10px;
 }
+.column2{
+  float: left;
+  width: auto;
+  padding: 10px;
+}
+h2{
+  text-align: center;
+}
