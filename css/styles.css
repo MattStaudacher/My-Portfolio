@@ -13,3 +13,8 @@ h1{
 body{
   background-color: #066042
 }
+.column{
+  float: left;
+  width: auto;
+  padding: 10px;
+}
