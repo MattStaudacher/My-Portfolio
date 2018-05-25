@@ -1,10 +1,11 @@
 # My Portfolio
 
-#### My Portfolio Project, our first code review assignment. 05/25/2018
+#### My Portfolio Project, our first code review assignment following week 1 of class. 05/25/2018
 
 #### By Matt Staudacher
 
-## Created what will be my home portfolio for my web pages using everything we have learned this week.
+## Description
+Created what will be my home portfolio for my web pages using everything we have learned this week.
 
 
 ## Setup/Installation Requirements
@@ -17,7 +18,8 @@
 * Push Project to GitHub from local server
 
 
-## Contact Matt Staudacher at mattstaudacher3@gmail.com for any issues, ideas or concerns.
+## Support and Contact Details
+Contact Matt Staudacher at mattstaudacher3@gmail.com for any issues, ideas or concerns.
 
 ## Technologies Used
 
@@ -28,7 +30,6 @@
 * Bootstrap
 * Atom
 * Terminal
-
 
 
 ### License
