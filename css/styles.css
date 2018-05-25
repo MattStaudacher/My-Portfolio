@@ -31,12 +31,19 @@ body {
 h2{
   text-align: center;
 }
+h4{
+  text-align: center;
+}
 img{
 
 
   border-radius: 20px;
   float: center;
 }
+.footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
 
 .jumbotron{
   text-align: center;
