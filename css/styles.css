@@ -7,4 +7,9 @@
 h1{
   display: block;
   text-align: center;
+  padding: 15px;
+  border: 10px solid black;
+}
+body{
+  background-color: #066042
 }
