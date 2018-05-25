@@ -24,7 +24,9 @@
   padding: 10px;
 
 }
-
+.floater{
+  float: right;
+}
 body {
   background-color: #655d7f;
 }
